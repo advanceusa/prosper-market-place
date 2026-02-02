@@ -42,7 +42,7 @@ export default function HowItWorksPage() {
           <div className="container mx-auto px-4">
             <div className="max-w-3xl mx-auto text-center">
               <h1 className="text-4xl md:text-5xl font-bold text-foreground mb-6">
-                How Advance America Works
+                How Prosper Market Place Works
               </h1>
               <p className="text-xl text-muted-foreground">
                 Getting a personal loan has never been easier. Our streamlined process helps you find the right loan in minutes, not days.
@@ -103,7 +103,7 @@ export default function HowItWorksPage() {
             <div className="bg-emerald-600 rounded-2xl p-8 md:p-12 text-center text-white">
               <h2 className="text-3xl font-bold mb-4">Ready to Get Started?</h2>
               <p className="text-xl mb-8 opacity-90">
-                Join millions of Americans who have found their perfect loan through Advance America.
+                Join millions of Americans who have found their perfect loan through Prosper Market Place.
               </p>
               <Link href="/">
                 <Button size="lg" variant="secondary" className="bg-white text-emerald-600 hover:bg-gray-100">

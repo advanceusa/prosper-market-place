@@ -120,7 +120,7 @@ export default function PersonalLoansPage() {
         <section className="py-16 bg-gray-50">
           <div className="container mx-auto px-4">
             <div className="max-w-4xl mx-auto">
-              <h2 className="text-3xl font-bold text-center mb-10">Why Choose Advance America Personal Loans?</h2>
+              <h2 className="text-3xl font-bold text-center mb-10">Why Choose Prosper Market Place Personal Loans?</h2>
               <div className="space-y-4">
                 {benefits.map((benefit) => (
                   <div key={benefit} className="flex items-start gap-3">

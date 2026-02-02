@@ -45,7 +45,7 @@ export default function AboutUsPage() {
           <div className="container mx-auto px-4">
             <div className="max-w-3xl mx-auto text-center">
               <h1 className="text-4xl md:text-5xl font-bold text-foreground mb-6">
-                About Advance America
+                About Prosper Market Place
               </h1>
               <p className="text-xl text-muted-foreground">
                 We're on a mission to help every American make smart financial decisions. Since 1996, we've been connecting borrowers with lenders to find the best loan options.
@@ -75,7 +75,7 @@ export default function AboutUsPage() {
               <h2 className="text-3xl font-bold text-center mb-8">Our Story</h2>
               <div className="prose prose-lg mx-auto text-muted-foreground">
                 <p className="mb-4">
-                  Advance America was founded in 1996 with a simple idea: give consumers the power to comparison shop for loans and find the best rates. Before Advance America, getting a loan meant visiting multiple banks, filling out paperwork, and hoping for the best.
+                  Prosper Market Place was founded in 1996 with a simple idea: give consumers the power to comparison shop for loans and find the best rates. Before Prosper Market Place, getting a loan meant visiting multiple banks, filling out paperwork, and hoping for the best.
                 </p>
                 <p className="mb-4">
                   We changed that by creating an online marketplace where lenders compete for your business. This competition drives down rates and gives you more options to choose from.

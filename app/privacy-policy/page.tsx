@@ -15,7 +15,7 @@ export default function PrivacyPolicyPage() {
             <section className="mb-8">
               <h2 className="text-2xl font-semibold mb-4">Introduction</h2>
               <p className="text-muted-foreground">
-                Advance America ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our services.
+                Prosper Market Place ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our services.
               </p>
             </section>
 
@@ -83,7 +83,7 @@ export default function PrivacyPolicyPage() {
                 If you have questions about this Privacy Policy or our practices, please contact us at:
               </p>
               <p className="text-muted-foreground mt-4">
-                Advance America, LLC<br />
+                Prosper Market Place, LLC<br />
                 11115 Rushmore Dr<br />
                 Charlotte, NC 28277<br />
                 Email: credoralendingservices@gmail.com<br />

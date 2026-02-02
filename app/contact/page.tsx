@@ -36,13 +36,13 @@ export default function ContactPage() {
     {
       icon: Phone,
       title: "Phone",
-      details: "(864) 206-5814",
+      details: "(864) 000-0000",
       subtext: "Mon-Fri 8am-10pm EST",
     },
     {
       icon: Mail,
       title: "Email",
-      details: "advanceamericapmc@gmail.com",
+      details: "prospermarketplace@gmail.com",
       subtext: "We respond within 24 hours",
     },
     {

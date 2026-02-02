@@ -32,7 +32,7 @@ export default function LoginPage() {
           <Link href="/" className="flex items-center">
             <Image
               src="/images/lending-tree-logo.png"
-              alt="Advance America"
+              alt="Prosper Market Place"
               width={150}
               height={40}
               className="h-10 w-auto"
@@ -61,7 +61,7 @@ export default function LoginPage() {
               <div className="text-center mb-8">
                 <h1 className="text-2xl font-bold text-gray-900">Account Login</h1>
                 <p className="text-gray-600 mt-2">
-                  Access your Advance America account to manage your loan
+                  Access your Prosper Market Place account to manage your loan
                 </p>
               </div>
 

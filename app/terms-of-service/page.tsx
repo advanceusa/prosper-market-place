@@ -15,14 +15,14 @@ export default function TermsOfServicePage() {
             <section className="mb-8">
               <h2 className="text-2xl font-semibold mb-4">Agreement to Terms</h2>
               <p className="text-muted-foreground">
-                By accessing or using Advance America's website and services, you agree to be bound by these Terms of Service and all applicable laws and regulations. If you do not agree with any of these terms, you are prohibited from using or accessing this site.
+                By accessing or using Prosper Market Place's website and services, you agree to be bound by these Terms of Service and all applicable laws and regulations. If you do not agree with any of these terms, you are prohibited from using or accessing this site.
               </p>
             </section>
 
             <section className="mb-8">
               <h2 className="text-2xl font-semibold mb-4">Description of Services</h2>
               <p className="text-muted-foreground">
-                Advance America operates an online marketplace that connects consumers with lenders. We do not make loans directly. Instead, we transmit your information to lenders in our network who may offer you loan products. The terms of any loan you receive are between you and the lender.
+                Prosper Market Place operates an online marketplace that connects consumers with lenders. We do not make loans directly. Instead, we transmit your information to lenders in our network who may offer you loan products. The terms of any loan you receive are between you and the lender.
               </p>
             </section>
 
@@ -48,21 +48,21 @@ export default function TermsOfServicePage() {
             <section className="mb-8">
               <h2 className="text-2xl font-semibold mb-4">No Guarantee of Loan Approval</h2>
               <p className="text-muted-foreground">
-                Submitting a request through Advance America does not guarantee that you will receive a loan offer. Loan approval, amounts, rates, and terms are determined solely by the lenders in our network based on their own criteria.
+                Submitting a request through Prosper Market Place does not guarantee that you will receive a loan offer. Loan approval, amounts, rates, and terms are determined solely by the lenders in our network based on their own criteria.
               </p>
             </section>
 
             <section className="mb-8">
               <h2 className="text-2xl font-semibold mb-4">Intellectual Property</h2>
               <p className="text-muted-foreground">
-                The content, features, and functionality of this website are owned by Advance America and are protected by copyright, trademark, and other intellectual property laws. You may not reproduce, distribute, or create derivative works without our express written permission.
+                The content, features, and functionality of this website are owned by Prosper Market Place and are protected by copyright, trademark, and other intellectual property laws. You may not reproduce, distribute, or create derivative works without our express written permission.
               </p>
             </section>
 
             <section className="mb-8">
               <h2 className="text-2xl font-semibold mb-4">Limitation of Liability</h2>
               <p className="text-muted-foreground">
-                Advance America shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of or inability to use our services. Our total liability shall not exceed the amount you paid us, if any, for accessing our services.
+                Prosper Market Place shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of or inability to use our services. Our total liability shall not exceed the amount you paid us, if any, for accessing our services.
               </p>
             </section>
 
@@ -93,11 +93,11 @@ export default function TermsOfServicePage() {
                 For questions about these Terms of Service, please contact us at:
               </p>
               <p className="text-muted-foreground mt-4">
-                Advance America, LLC<br />
+                Prosper Market Place, LLC<br />
                 11115 Rushmore Dr<br />
                 Charlotte, NC 28277<br />
-                Email: credoralendingservices@gmail.com<br />
-                Phone: (813) 302-7598
+                Email: prospermarketplace@gmail.com<br />
+                Phone: (813) 000-0000
               </p>
             </section>
           </div>

