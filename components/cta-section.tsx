@@ -8,7 +8,7 @@ export function CtaSection() {
       <div className="container mx-auto px-4 text-center">
         <h2 className="text-3xl font-bold tracking-tight text-white sm:text-4xl text-balance">Ready to Get Started?</h2>
         <p className="mt-4 text-lg text-emerald-100 max-w-2xl mx-auto">
-          Join thousands of satisfied customers who chose Advance America for their personal loan needs.
+          Join thousands of satisfied customers who chose Prosper Market Place for their personal loan needs.
         </p>
         <div className="mt-8 flex flex-wrap justify-center gap-4">
           <Link href="/personal-loans">

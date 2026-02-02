@@ -8,9 +8,9 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Personal Loans Up to $100,000 | Advance America",
+  title: "Personal Loans Up to $100,000 | Prosper Market Place",
   description:
-    "Get personal loans with competitive rates, no origination fees, and fast funding. Apply online in minutes with Advance America.",
+    "Get personal loans with competitive rates, no origination fees, and fast funding. Apply online in minutes with Prosper Market Place.",
   generator: "v0.app",
   icons: {
     icon: [

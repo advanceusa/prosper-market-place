@@ -39,7 +39,7 @@ export function FeaturesSection() {
       <div className="container mx-auto px-4">
         <div className="mx-auto max-w-2xl text-center mb-12">
           <h2 className="text-3xl font-bold tracking-tight text-foreground sm:text-4xl text-balance">
-            Why Choose Advance America?
+            Why Choose Prosper Market Place?
           </h2>
           <p className="mt-4 text-lg text-muted-foreground">
             We make personal loans simple, transparent, and accessible for everyone.

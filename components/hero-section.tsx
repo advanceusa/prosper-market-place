@@ -34,7 +34,7 @@ export function HeroSection() {
 
             <p className="max-w-lg text-lg text-muted-foreground">
               Get the funds you need with competitive rates, no origination fees, and fast funding. Apply online in
-              minutes with Advance America.
+              minutes with Prosper Market Place.
             </p>
 
             <div className="flex flex-wrap gap-4">
