@@ -134,14 +134,14 @@ export default function LoginPage() {
                   <Phone className="h-5 w-5 text-emerald-600" />
                   <div>
                     <span className="font-medium text-gray-900">Phone: </span>
-                    (813) 302-7598
+                    (707) 234-7342
                   </div>
                 </div>
                 <div className="flex items-center gap-3 text-gray-600">
                   <Mail className="h-5 w-5 text-emerald-600" />
                   <div>
                     <span className="font-medium text-gray-900">Email: </span>
-                    credoralendingservices@gmail.com
+                    prospermarketplace04@gmail.com
                   </div>
                 </div>
                 <div className="flex items-center gap-3 text-gray-600">
