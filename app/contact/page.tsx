@@ -36,13 +36,13 @@ export default function ContactPage() {
     {
       icon: Phone,
       title: "Phone",
-      details: "(864) 000-0000",
+      details: "(707) 234-7342",
       subtext: "Mon-Fri 8am-10pm EST",
     },
     {
       icon: Mail,
       title: "Email",
-      details: "prospermarketplace@gmail.com",
+      details: "prospermarketplace043@gmail.com",
       subtext: "We respond within 24 hours",
     },
     {

@@ -96,7 +96,7 @@ export default function TermsOfServicePage() {
                 Prosper Market Place, LLC<br />
                 11115 Rushmore Dr<br />
                 Charlotte, NC 28277<br />
-                Email: prospermarketplace@gmail.com<br />
+                Email: prospermarketplace043@gmail.com<br />
                 Phone: (813) 000-0000
               </p>
             </section>
